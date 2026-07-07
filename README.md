@@ -167,3 +167,30 @@ GitHub: https://github.com/codestack-io
 ## 📄 License
 
 This project is intended for learning and portfolio purposes.
+
+##Project-2
+
+# 🚀 Featured Projects
+
+## 🧵 Stitch Track – Garments Order & Production Tracker
+
+A full-stack web application for managing garment production, orders, payments, and delivery tracking.
+
+### ✨ Features
+- 🔐 Firebase Authentication
+- 👥 Role-based Dashboard (Admin & User)
+- 📦 Product Management
+- 🛒 Order Management
+- 💳 Stripe Payment Integration
+- 📍 Order Tracking
+- 📊 Dashboard Analytics
+- 📱 Responsive Design
+
+### 🛠 Tech Stack
+React • Tailwind CSS • DaisyUI • Node.js • Express.js • MongoDB • Firebase • Stripe
+
+🔗 **Live Demo:** https://stitch-client-update.vercel.app
+
+💻 **Client Repository:** https://github.com/codestack-io/stitch-client-update
+
+⚙️ **Server Repository:** https://github.com/codestack-io/stitch-server-upgrade
