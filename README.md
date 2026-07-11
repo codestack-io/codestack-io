@@ -19,7 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//antara-saha-810718254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=<a href="https://linkedin.com/in/antara-saha-810718254/" target="_blank"> height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antara-saha-810718254/" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="LinkedIn"
+    height="30"
+    width="30"
+  />
+</a>
 <a href="https://www.facebook.com/antara.saha.127106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antara saha" height="30" width="40" /></a>
 </p>
 
