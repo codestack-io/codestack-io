@@ -2,16 +2,17 @@
 <h3 align="center">A passionate webdeveloper from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codestack-io&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <img
+    height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codestack-io&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=codestack-io&theme=algolia&row=1&column=6&margin-w=15&margin-h=15"
-      alt="GitHub Trophies"
-    />
-  </a>
+  <img
+    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=codestack-io&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 - 🌱 I’m currently learning **web development and exploring modern frameworks, tools, and best practices for creating high-quality web experiences.**
