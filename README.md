@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antara</h1>
 <h3 align="center">A passionate webdeveloper from Bangladesh</h3>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codestack-io&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
 
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=codestack-io&theme=tokyonight"
-    alt="GitHub Streak"
-  />
-</p>
 
 - 🌱 I’m currently learning **web development and exploring modern frameworks, tools, and best practices for creating high-quality web experiences.**
 
@@ -22,17 +10,18 @@
 - 📫 How to reach me **sahaantara444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/antara-saha-810718254/" target="_blank">
+<p align="center">
   <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="LinkedIn"
-    height="30"
-    width="30"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=codestack-io&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
   />
-</a>
-<a href="https://www.facebook.com/antara.saha.127106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antara saha" height="30" width="40" /></a>
+
+  <img
+    height="170"
+    src="https://github-profile-trophy.vercel.app/?username=codestack-io&theme=tokyonight&row=2&column=3&margin-w=10&margin-h=10&no-frame=true"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
