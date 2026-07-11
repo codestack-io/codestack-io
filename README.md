@@ -42,7 +42,7 @@
 src="https://github-readme-stats.vercel.app/api?username=codestack-io&show_icons=true&theme=tokyonight"/>
 
 <img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=codestack-io&theme=tokyonight"/>
+src="[https://github-readme-streak-stats.herokuapp.com/?user=codestack-io](https://github-readme-stats.vercel.app/api?username=codestack-io&show_icons=true&theme=tokyonight&cache_seconds=1800)&theme=tokyonight"/>
 </p>
 ## 🐍 Contribution Snake
 
