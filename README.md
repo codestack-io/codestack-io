@@ -11,11 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=codestack-io&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
+ 
 
   <img
     height="170"
