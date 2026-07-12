@@ -1,13 +1,24 @@
-<h1 align="center">Hi 👋, I'm Antara</h1>
-<h3 align="center">A passionate webdeveloper from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Antara Saha</h1>
+
+<h3 align="center">
+Full-Stack Web Developer | MERN Stack Developer
+</h3>
+
+<p align="center">
+I build responsive, scalable and user-friendly web applications using modern JavaScript technologies.
+Currently exploring Next.js, TypeScript and building production-ready full-stack applications.
+</p>
 
 
 
-- 🌱 I’m currently learning **web development and exploring modern frameworks, tools, and best practices for creating high-quality web experiences.**
+## 👩‍💻 About Me
 
-- 💬 Ask me about **web applications with React, Next.js, Node.js, and MongoDB**
-
-- 📫 How to reach me **sahaantara444@gmail.com**
+- 🎓 Statistics Undergraduate at Comilla University
+- 💻 Full-Stack Web Developer (MERN)
+- 🌱 Currently learning Next.js, TypeScript and System Design
+- 🔭 Building production-ready web applications
+- 💬 Ask me about React, Next.js, Node.js, Express and MongoDB
+- 📫 Email: **sahaantara444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -32,10 +43,25 @@
     alt="GitHub Streak"
   />
 </p>
+## 📚 Currently Learning
+
+- Advanced Next.js
+- TypeScript
+- Docker
+- System Design
+- Clean Architecture
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codestack-io&label=Visitors&style=flat-square&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/codestack-io?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/codestack-io?label=Stars&style=for-the-badge" />
+</p>
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codestack-io/codestack-io/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/codestack-io/codestack-io/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 # 👔 Clover Clothing
@@ -103,81 +129,12 @@ Clover Clothing is an online fashion platform specializing in traditional men's 
 * class-variance-authority (CVA)
 * tailwind
 
----
-
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/codestack-io/clover-clothing.git
-```
-
-Move into the project directory:
-
-```bash
-cd clover-clothing
-```
-
-Install all dependencies:
-
-```bash
-npm install
-```
-
-```env
-```
-
-## ▶️ Running the Project
-
-Start the development server:
-
-```bash
-npm run dev
-```
-
-Visit:
-
-```text
-http://localhost:3000
-```
-
----
-
-## 📁 Available Scripts
-
-```bash
-npm run dev      # Start development server
-
-npm run build    # Build production application
-
-npm run start    # Start production server
-
-npm run lint     # Run ESLint
-```
-
----
-
 ## 🚀 Future Improvements
 
 * Wishlist functionality
 * Product search and filtering
 * Product reviews and ratings
 * Order history
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
-GitHub: https://github.com/codestack-io
-
----
-
-## 📄 License
-
-This project is intended for learning and portfolio purposes.
 
 ##Project-2
 
@@ -205,3 +162,4 @@ React • Tailwind CSS • DaisyUI • Node.js • Express.js • MongoDB • Fi
 💻 **Client Repository:** https://github.com/codestack-io/stitch-client-update
 
 ⚙️ **Server Repository:** https://github.com/codestack-io/stitch-server-upgrade
+
